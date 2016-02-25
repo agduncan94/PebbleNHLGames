@@ -1,7 +1,8 @@
 /**
- * Welcome to Pebble.js!
+ * Basic NHL pebble app
  *
- * This is where you write your app.
+ * This pebble app shows you the a list of all of the games of the season, with the most recent at the top.
+ * It uses nicetimeonice to grab the data
  */
 
 var ajax = require('ajax');
